@@ -1,0 +1,247 @@
+[
+  {
+    "ExpenseID": 1,
+    "Category": "Groceries",
+    "Amount": 450,
+    "Date": "05/02/2024",
+    "Description": "Purchased groceries for the week"
+  },
+  {
+    "ExpenseID": 2,
+    "Category": "Transportation",
+    "Amount": 200,
+    "Date": "12/02/2024",
+    "Description": "Filled up gas for the car"
+  },
+  {
+    "ExpenseID": 3,
+    "Category": "Entertainment",
+    "Amount": 800,
+    "Date": "15/02/2024",
+    "Description": "Movie night with friends"
+  },
+  {
+    "ExpenseID": 4,
+    "Category": "Utilities",
+    "Amount": 1200,
+    "Date": "20/02/2024",
+    "Description": "Electricity bill payment"
+  },
+  {
+    "ExpenseID": 5,
+    "Category": "Dining Out",
+    "Amount": 600,
+    "Date": "25/02/2024",
+    "Description": "Dinner at a restaurant"
+  },
+  {
+    "ExpenseID": 6,
+    "Category": "Clothing",
+    "Amount": 1000,
+    "Date": "02/03/2024",
+    "Description": "Bought new jeans and a shirt"
+  },
+  {
+    "ExpenseID": 7,
+    "Category": "Healthcare",
+    "Amount": 350,
+    "Date": "07/03/2024",
+    "Description": "Prescription medicine"
+  },
+  {
+    "ExpenseID": 8,
+    "Category": "Home Improvement",
+    "Amount": 1500,
+    "Date": "10/03/2024",
+    "Description": "Bought paint for home renovation"
+  },
+  {
+    "ExpenseID": 9,
+    "Category": "Education",
+    "Amount": 700,
+    "Date": "15/03/2024",
+    "Description": "Textbooks for college courses"
+  },
+  {
+    "ExpenseID": 10,
+    "Category": "Gifts",
+    "Amount": 400,
+    "Date": "20/03/2024",
+    "Description": "Birthday present for a friend"
+  },
+  {
+    "ExpenseID": 11,
+    "Category": "Groceries",
+    "Amount": 480,
+    "Date": "02/04/2024",
+    "Description": "Weekly groceries"
+  },
+  {
+    "ExpenseID": 12,
+    "Category": "Transportation",
+    "Amount": 250,
+    "Date": "08/04/2024",
+    "Description": "Bus fare for commuting"
+  },
+  {
+    "ExpenseID": 13,
+    "Category": "Entertainment",
+    "Amount": 600,
+    "Date": "12/04/2024",
+    "Description": "Concert tickets"
+  },
+  {
+    "ExpenseID": 14,
+    "Category": "Utilities",
+    "Amount": 1100,
+    "Date": "18/04/2024",
+    "Description": "Water bill payment"
+  },
+  {
+    "ExpenseID": 15,
+    "Category": "Dining Out",
+    "Amount": 750,
+    "Date": "25/04/2024",
+    "Description": "Lunch with colleagues"
+  },
+  {
+    "ExpenseID": 16,
+    "Category": "Clothing",
+    "Amount": 900,
+    "Date": "01/05/2024",
+    "Description": "New dress for a special occasion"
+  },
+  {
+    "ExpenseID": 17,
+    "Category": "Healthcare",
+    "Amount": 300,
+    "Date": "06/05/2024",
+    "Description": "First aid supplies"
+  },
+  {
+    "ExpenseID": 18,
+    "Category": "Home Improvement",
+    "Amount": 1700,
+    "Date": "10/05/2024",
+    "Description": "Tools for DIY projects"
+  },
+  {
+    "ExpenseID": 19,
+    "Category": "Education",
+    "Amount": 600,
+    "Date": "15/05/2024",
+    "Description": "Online course subscription"
+  },
+  {
+    "ExpenseID": 20,
+    "Category": "Gifts",
+    "Amount": 420,
+    "Date": "20/05/2024",
+    "Description": "Anniversary gift for spouse"
+  },
+  {
+    "ExpenseID": 21,
+    "Category": "Groceries",
+    "Amount": 500,
+    "Date": "01/06/2024",
+    "Description": "Monthly grocery shopping"
+  },
+  {
+    "ExpenseID": 22,
+    "Category": "Transportation",
+    "Amount": 220,
+    "Date": "07/06/2024",
+    "Description": "Car maintenance"
+  },
+  {
+    "ExpenseID": 23,
+    "Category": "Entertainment",
+    "Amount": 700,
+    "Date": "12/06/2024",
+    "Description": "Tickets to a theme park"
+  },
+  {
+    "ExpenseID": 24,
+    "Category": "Utilities",
+    "Amount": 1300,
+    "Date": "18/06/2024",
+    "Description": "Internet bill payment"
+  },
+  {
+    "ExpenseID": 25,
+    "Category": "Dining Out",
+    "Amount": 800,
+    "Date": "25/06/2024",
+    "Description": "Dinner date at a fancy restaurant"
+  },
+  {
+    "ExpenseID": 26,
+    "Category": "Clothing",
+    "Amount": 1100,
+    "Date": "01/07/2024",
+    "Description": "Shopping spree for summer clothes"
+  },
+  {
+    "ExpenseID": 27,
+    "Category": "Healthcare",
+    "Amount": 400,
+    "Date": "06/07/2024",
+    "Description": "Dental check-up"
+  },
+  {
+    "ExpenseID": 28,
+    "Category": "Home Improvement",
+    "Amount": 1800,
+    "Date": "10/07/2024",
+    "Description": "Renovation materials"
+  },
+  {
+    "ExpenseID": 29,
+    "Category": "Education",
+    "Amount": 750,
+    "Date": "15/07/2024",
+    "Description": "Workshop registration fee"
+  },
+  {
+    "ExpenseID": 30,
+    "Category": "Gifts",
+    "Amount": 450,
+    "Date": "20/07/2024",
+    "Description": "Gift for a colleague's farewell"
+  },
+  {
+    "ExpenseID": 31,
+    "Category": "Groceries",
+    "Amount": 520,
+    "Date": "01/08/2024",
+    "Description": "Stocking up on pantry essentials"
+  },
+  {
+    "ExpenseID": 32,
+    "Category": "Transportation",
+    "Amount": 240,
+    "Date": "07/08/2024",
+    "Description": "Public transportation pass"
+  },
+  {
+    "ExpenseID": 33,
+    "Category": "Entertainment",
+    "Amount": 750,
+    "Date": "12/08/2024",
+    "Description": "Concert tickets"
+  },
+  {
+    "ExpenseID": 34,
+    "Category": "Utilities",
+    "Amount": 1400,
+    "Date": "18/08/2024",
+    "Description": "Electricity bill payment"
+  },
+  {
+    "ExpenseID": 35,
+    "Category": "Dining Out",
+    "Amount": 850,
+    "Date": "25/08/2024",
+    "Description": "Celebratory dinner with family"
+  }
+]
